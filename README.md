@@ -22,7 +22,10 @@ This repository contains my submission for the **Product Analyst Assignment** at
   - Highlighted the need for a more structured CRM integration to manage customer data effectively.
  
 
-<img width="552" alt="Screenshot 2025-02-04 at 6 02 29 PM" src="https://github.com/user-attachments/assets/cc66ffe0-1082-4e3f-a5ca-971e03fa500f" />
+
+
+<div align="center">
+<img width="552" alt="Screenshot 2025-02-04 at 6 02 29 PM"  src="https://github.com/user-attachments/assets/cc66ffe0-1082-4e3f-a5ca-971e03fa500f" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,6 +38,7 @@ This repository contains my submission for the **Product Analyst Assignment** at
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="496" alt="Screenshot 2025-02-04 at 6 03 05 PM" src="https://github.com/user-attachments/assets/e7d3ecb1-377f-418c-8349-d8710b3dfeb0" />
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
