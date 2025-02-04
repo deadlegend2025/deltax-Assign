@@ -20,17 +20,23 @@ This repository contains my submission for the **Product Analyst Assignment** at
   - Proposed an automated follow-up system to reduce lead churn.
   - Suggested UI/UX improvements for better user engagement and efficiency.
   - Highlighted the need for a more structured CRM integration to manage customer data effectively.
+ 
 
-## Preview<img width="552" alt="Screenshot 2025-02-04 at 6 02 29 PM" src="https://github.com/user-attachments/assets/cc66ffe0-1082-4e3f-a5ca-971e03fa500f" />
+<img width="552" alt="Screenshot 2025-02-04 at 6 02 29 PM" src="https://github.com/user-attachments/assets/cc66ffe0-1082-4e3f-a5ca-971e03fa500f" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="496" alt="Screenshot 2025-02-04 at 6 02 41 PM" src="https://github.com/user-attachments/assets/efea3d6e-eb60-4a1a-8f45-b1e4c7f960fc" />
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="481" alt="Screenshot 2025-02-04 at 6 02 51 PM" src="https://github.com/user-attachments/assets/523b13e4-3f5a-4cb7-b8ac-f98a3f6c7a02" />
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="496" alt="Screenshot 2025-02-04 at 6 03 05 PM" src="https://github.com/user-attachments/assets/e7d3ecb1-377f-418c-8349-d8710b3dfeb0" />
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 You can view the Figma design here: https://www.figma.com/design/Uq4IrYFCvIinjbK8zMgpWt/Lead-Lynx
 
